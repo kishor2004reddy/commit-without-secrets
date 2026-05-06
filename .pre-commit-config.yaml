@@ -1,6 +1,0 @@
-repos:
-  - repo: https://github.com/zricethezav/gitleaks-pre-commit
-    rev: v1.4.0
-    hooks:
-      - id: gitleaks
-        args: ["--verbose"]
